@@ -8,8 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "eleventy": "^1.0.6"
   }
 }
